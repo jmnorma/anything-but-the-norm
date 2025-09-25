@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](anything-but-the-norm/images/ecuador/IMG_7614-2.jpg)
+![](images/ecuador/IMG_7614-2.jpg)
 
 ## The Bite Size Update 
 

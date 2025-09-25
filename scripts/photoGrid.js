@@ -1,5 +1,5 @@
 // Define folder and image files
-const folder = "anything-but-the-norm/images/ecuador/";
+const folder = "/anything-but-the-norm/images/ecuador/";
 const images = [
     "IMG_7407.jpg",
     "IMG_7614-2.jpg",
